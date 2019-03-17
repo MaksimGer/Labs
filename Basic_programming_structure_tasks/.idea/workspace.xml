@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc250b55-22e9-4517-a642-e7cb1decf0fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Java_tasks_OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_tasks_OOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tasks_OOP/out/production/Java_tasks_OOP/com/Netcracker/Author.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tasks_OOP/out/production/Java_tasks_OOP/com/Netcracker/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tasks_OOP/out/production/Java_tasks_OOP/com/Netcracker/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tasks_OOP/out/production/Java_tasks_OOP/com/Netcracker/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tasks_OOP/out/production/Java_tasks_OOP/com/Netcracker/MyPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tasks_OOP/out/production/Java_tasks_OOP/com/Netcracker/MyTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tasks_OOP/out/production/Java_tasks_OOP/com/Netcracker/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tasks_OOP/out/production/Java_tasks_OOP/com/Netcracker/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_tasks_OOP/out/production/Java_tasks_OOP/com/Netcracker/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tasks_OOP/src/com/Netcracker/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_tasks_OOP/src/com/Netcracker/Author/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tasks_OOP/src/com/Netcracker/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_tasks_OOP/src/com/Netcracker/Book/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tasks_OOP/src/com/Netcracker/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_tasks_OOP/src/com/Netcracker/Circle/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tasks_OOP/src/com/Netcracker/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_tasks_OOP/src/com/Netcracker/Employee/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tasks_OOP/src/com/Netcracker/MyPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_tasks_OOP/src/com/Netcracker/MyPoint/MyPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tasks_OOP/src/com/Netcracker/MyTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_tasks_OOP/src/com/Netcracker/MyTriangle/MyTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tasks_OOP/src/com/Netcracker/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_tasks_OOP/src/com/Netcracker/Rectangle/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_tasks_OOP/src/com/Netcracker/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_tasks_OOP/src/com/Netcracker/Test.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Netcracker/Factorial/Factorial.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="32" column="54" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Netcracker/One_DimenArrays/One_DimenArrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="147" column="64" lean-forward="true" selection-start-line="147" selection-start-column="64" selection-end-line="147" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Netcracker/Colntrol_struct/Colntrol_struct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="677">
+              <caret line="126" selection-start-line="126" selection-end-line="126" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Netcracker/SortArray/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="22" selection-start-line="22" selection-end-line="23" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>max</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/SortArray/SortArray.java" />
+        <option value="$PROJECT_DIR$/src/Factorial/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/com/Netcracker/Factorial/SortArray/test.java" />
+        <option value="$PROJECT_DIR$/src/SortArray/test.java" />
+        <option value="$PROJECT_DIR$/src/com/Netcracker/SortArray/test.java" />
+        <option value="$PROJECT_DIR$/src/com/Netcracker/Factorial/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/com/Netcracker/NestedLoop/NestedLoop.java" />
+        <option value="$PROJECT_DIR$/src/com/Netcracker/MultidimenArray/MultidimenArray.java" />
+        <option value="$PROJECT_DIR$/src/com/Netcracker/Colntrol_struct/Colntrol_struct.java" />
+        <option value="$PROJECT_DIR$/src/com/Netcracker/One_DimenArrays/One_DimenArrays.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="960" />
+    <option name="width" value="958" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Basic_programming_structure_tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic_programming_structure_tasks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic_programming_structure_tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic_programming_structure_tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic_programming_structure_tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic_programming_structure_tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Netcracker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic_programming_structure_tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic_programming_structure_tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Netcracker" type="462c0819:PsiDirectoryNode" />
+              <item name="One_DimenArrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552829820663" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.One_DimenArrays">
+    <configuration name="Colntrol_struct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Netcracker.Colntrol_struct.Colntrol_struct" />
+      <module name="Basic_programming_structure_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Netcracker.Colntrol_struct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Netcracker.Factorial.Factorial" />
+      <module name="Basic_programming_structure_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Netcracker.Factorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultidimenArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Netcracker.MultidimenArray.MultidimenArray" />
+      <module name="Basic_programming_structure_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Netcracker.MultidimenArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Netcracker.NestedLoop.NestedLoop" />
+      <module name="Basic_programming_structure_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Netcracker.NestedLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="One_DimenArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Netcracker.One_DimenArrays.One_DimenArrays" />
+      <module name="Basic_programming_structure_tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Netcracker.One_DimenArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.One_DimenArrays" />
+        <item itemvalue="Application.Colntrol_struct" />
+        <item itemvalue="Application.MultidimenArray" />
+        <item itemvalue="Application.NestedLoop" />
+        <item itemvalue="Application.Factorial" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc250b55-22e9-4517-a642-e7cb1decf0fc" name="Default Changelist" comment="" />
+      <created>1552553057607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552553057607</updated>
+      <workItem from="1552553066262" duration="9806000" />
+      <workItem from="1552741144172" duration="21299000" />
+      <workItem from="1552810925718" duration="9327000" />
+      <workItem from="1552829330081" duration="515000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40947000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.120469086" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3163152" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39289677" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32881355" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Netcracker/SortArray/SortArray.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/Netcracker/NestedLoop/NestedLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="61" selection-start-line="32" selection-start-column="61" selection-end-line="32" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Netcracker/SortArray/SortArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="70" column="9" lean-forward="true" selection-start-line="67" selection-start-column="8" selection-end-line="70" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Netcracker/package-info.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="1370" selection-start-line="1370" selection-end-line="1370" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Netcracker/MultidimenArray/MultidimenArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="831">
+          <caret line="104" column="9" lean-forward="true" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Netcracker/Factorial/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="54" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Netcracker/Colntrol_struct/Colntrol_struct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="677">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Netcracker/SortArray/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" selection-start-line="22" selection-end-line="23" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Netcracker/One_DimenArrays/One_DimenArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="147" column="64" lean-forward="true" selection-start-line="147" selection-start-column="64" selection-end-line="147" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
