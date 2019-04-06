@@ -153,6 +153,24 @@ public class MyLinkedList<E> implements ILinkedList<E>, MyDescendingIterator<E>{
         };
     }
 
+    @Override
+    public String toString(){
+        String str = "MyLinkedList: [";
+        Node<E> curNode = fstNode.nextNode;
+
+        if(size > 0){
+            str += curNode.element;
+            curNode = curNode.nextNode;
+            for(int i = 1; i < size; i++){
+                str += "," + curNode.element.toString();
+                curNode = curNode.nextNode;
+            }
+        }
+
+        str += "]";
+        return str;
+    }
+
     private class Node<E>{
         private E element;
         private Node<E> nextNode;

@@ -23,6 +23,8 @@ public class MainClass {
         strings.add("qqq");
         strings.add("GG");
 
+
+        System.out.println(strings);
         System.out.println(strings.get(3));
         System.out.println(strings.indexOf("qqq"));
         System.out.println(strings.set(8, "aaa"));
